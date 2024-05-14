@@ -25,8 +25,8 @@ If you're new to LaTeX, here are some steps to get started:
 
 I'll be updating this section to track my progress as I learn LaTeX. Here are some milestones and achievements:
 
-- [ ] Successfully compiled my first LaTeX document.
-- [ ] Completed introductory tutorial on LaTeX syntax.
+- [x] Successfully compiled my first LaTeX document.
+- [x] Completed introductory tutorial on LaTeX syntax.
 
 ## Resources
 
